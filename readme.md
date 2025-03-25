@@ -34,7 +34,6 @@ O projeto é estruturado da seguinte forma:
 Para rodar o projeto, é necessário ter instalado:
 - Python 3.x
 - Bibliotecas padrão (`json`, `sys`, etc.)
-- Biblioteca adicional para gerar links do Google Maps (caso necessário)
 
 ### 2️⃣ Execução
 Para rodar o **algoritmo guloso básico**:
